@@ -1,0 +1,23 @@
+[
+  {
+    "nombre": "Benito",
+    "edad": "2 años",
+    "tipo": "perro",
+    "color": "blanco",
+    "enfermedad": "vómitos"
+  },
+  {
+    "nombre": "Ogu",
+    "edad": "14 años",
+    "tipo": "perro",
+    "color": "castaño y negro",
+    "enfermedad": "tumor linfoma"
+  },
+  {
+    "nombre": "Lucas",
+    "edad": "12 años",
+    "tipo": "perro",
+    "color": "gris",
+    "enfermedad": "perforación pulmon por otro perro"
+  }
+]
